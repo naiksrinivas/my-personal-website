@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-[70vh] text-center">
       <Image
         src="/your-photo.jpg"
-        alt="Your Name"
+        alt="Srinivas Naik"
         width={200}
         height={200}
         className="rounded-full mb-8"
