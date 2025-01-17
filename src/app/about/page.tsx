@@ -7,7 +7,7 @@ export default function About() {
         <section className="mb-8">
           <h2 className="text-2xl font-semibold mb-4">Background</h2>
           <p className="text-gray-700 mb-4">
-            [Your compelling introduction here] I'm a software developer passionate about building 
+            I&apos;m a software developer passionate about building 
             user-friendly applications and solving complex problems.
           </p>
         </section>
