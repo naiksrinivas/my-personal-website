@@ -3,22 +3,10 @@ import ProjectCard from '@/components/ProjectCard';
 export default function Projects() {
   const projects = [
     {
-      title: "Project One",
-      description: "A brief description of your first project. What problems did it solve? What technologies did you use?",
-      technologies: ["React", "Node.js", "MongoDB"],
-      link: "https://github.com/yourusername/project-one"
-    },
-    {
-      title: "Project Two",
-      description: "Description of your second project. Highlight the key features and your role in development.",
-      technologies: ["TypeScript", "Next.js", "Tailwind CSS"],
-      link: "https://github.com/yourusername/project-two"
-    },
-    {
-      title: "Project Three",
-      description: "Overview of another significant project. What makes it unique? What did you learn?",
-      technologies: ["Python", "Django", "PostgreSQL"],
-      link: "https://github.com/yourusername/project-three"
+      title: "Spotify Art",
+      description: "An application to generate a grid with your Spotify playlist's songs' album art. [Email me if you want to test it out]",
+      technologies: ["React", "Python"],
+      link: "https://spotifyart.srinaik.com"
     }
   ];
 

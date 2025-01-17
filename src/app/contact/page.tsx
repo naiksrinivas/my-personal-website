@@ -24,10 +24,10 @@ export default function Contact() {
               />
             </svg>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:srinivas.naik@live.com"
               className="text-blue-600 hover:underline"
             >
-              your.email@example.com
+              srinivas.naik@live.com
             </a>
           </div>
 
@@ -46,7 +46,7 @@ export default function Contact() {
               />
             </svg>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/srinivaslaxmannaik/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"
@@ -70,7 +70,7 @@ export default function Contact() {
               />
             </svg>
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/naiksrinivas"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-600 hover:underline"

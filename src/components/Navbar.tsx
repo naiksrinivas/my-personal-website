@@ -6,7 +6,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="font-bold text-xl">
-            Your Name
+            Srinivas Naik
           </Link>
           
           <div className="flex space-x-4">
