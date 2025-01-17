@@ -12,10 +12,10 @@ export default function Home() {
         priority
       />
       <h1 className="text-4xl font-bold mb-4">
-        Hi, I&apos;m Your Name
+        Hi, I&apos;m Srinivas Naik
       </h1>
       <p className="text-xl text-gray-600 mb-8">
-        Software Developer | Tech Enthusiast | Problem Solver
+        Software Developer | Tech Enthusiast
       </p>
       <div className="flex space-x-4">
         <a
