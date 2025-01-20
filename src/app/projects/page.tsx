@@ -6,7 +6,7 @@ export default function Projects() {
       title: "Spotify Art",
       description: "An application to generate a grid with your Spotify playlist's songs' album art. [Email me if you want to test it out]",
       technologies: ["React", "Python"],
-      link: "https://spotify-jan-16.vercel.app"
+      link: "https://spotifyart.srinaik.com"
     }
   ];
 
